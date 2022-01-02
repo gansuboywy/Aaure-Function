@@ -23,7 +23,11 @@
             <artifactId>azure-functions-java-library</artifactId>
             <version>${azure.functions.java.library.version}</version>
         </dependency>
-
+		<dependency>
+		    <groupId>org.apache.maven.plugins</groupId>
+		    <artifactId>maven-deploy-plugin</artifactId>
+		    <version>3.0.0-M2</version>
+		</dependency>
         <!-- Test -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
