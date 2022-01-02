@@ -36,6 +36,9 @@
 		    <artifactId>maven-deploy-plugin</artifactId>
 		    <version>2.7</version>
 		</dependency>
+		<!-- 
+		comment1
+		 -->
         <dependency>
             <groupId>org.mockito</groupId>
             <artifactId>mockito-core</artifactId>
